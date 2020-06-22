@@ -1,4 +1,4 @@
 
-name=indu#email=indu@gmail.com#subject=testing email#message=This is a test message 
-name=indu2#email=indu@gmail.com#subject=testing email 2#message=This is a test message 2 
-name=indu3#email=indu@gmail.com#subject=testing email 3#message=This is a test message 3 
+name=bindu#email=indu@gmail.com#subject=testing email#message=This is a test message 
+name=binbdu2#email=indu@gmail.com#subject=testing email 2#message=This is a test message 2 
+name=ibndu3#email=invdu@gmail.com#subject=testing email 3#message=This isdddd a test message 3 
